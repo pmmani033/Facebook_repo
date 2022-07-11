@@ -1,2 +1,3 @@
 # Facebook_repo
-create repo to store the documentation
+ To create repo to store the documentation information
+ Store the password field
